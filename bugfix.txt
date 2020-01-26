@@ -1,4 +1,0 @@
-hi
-bug fix
-yes
-good
